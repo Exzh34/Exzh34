@@ -14,6 +14,7 @@
 <h2>⌛️ Side Projects</h2>
 
 - [Solidity notes](https://github.com/Exzh34/Solidity)
+- [Parrot OS dot files](https://github.com/Exzh34/Parrot-BSPWM-dot-files)
 
 <h2> 🤳 Connect with me:</h2>
 
